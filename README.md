@@ -1,11 +1,4 @@
-# Descriptive-Statistics
-Got it! Here's a clean and minimal **README.md** tailored to your project:
 
-You used **Python**, **Seaborn**, and **SciPy**, and built a **Streamlit frontend** — and **did not do full EDA**.
-
----
-
-```markdown
 # 📊 Sales Data Visualization with Streamlit
 
 This project focuses on visualizing sales data using Python libraries like **Seaborn** and **SciPy**, and building a simple and interactive frontend using **Streamlit**.
@@ -32,56 +25,37 @@ This project focuses on visualizing sales data using Python libraries like **Sea
 
 ## 🚀 How to Run the App
 
-1. **Clone the repository**
-
 ```bash
+# 1. Clone the repository
 git clone https://github.com/your-username/sales-data-visualization.git
 cd sales-data-visualization
-```
 
-2. **Install dependencies**
-
-```bash
+# 2. Install dependencies
 pip install streamlit seaborn scipy
-```
 
-3. **Run the Streamlit app**
-
-```bash
+# 3. Run the Streamlit app
 streamlit run app.py
-```
 
----
+📂 File Structure
 
-## 📂 File Structure
-
-```
 sales-data-visualization/
 ├── app.py               # Main Streamlit app
 ├── sales_data.csv       # Dataset used
 └── README.md
-```
 
----
 
-## ✨ Highlights
+✨ Highlights
+Simple and clean visualization dashboard
 
-- Simple and clean visualization dashboard
-- Interactive charts built using **Seaborn**
-- Lightweight and fast **Streamlit interface**
+Interactive charts built using Seaborn
 
----
+Lightweight and fast Streamlit interface
 
-## 📌 Notes
+📌 Notes
+This is not a full EDA project, but a visualization-based insight tool
 
-- This is not a full EDA project, but a visualization-based insight tool
-- Can be extended with more statistical insights or filters
+Can be extended with more statistical insights or filters
 
----
 
-## 📬 Contact
 
-If you'd like to connect or collaborate, feel free to reach out via GitHub!
-
-```
 
